@@ -9,6 +9,7 @@
 Here are some of my notable projects:
 
 - **[AstraHACK](https://github.com/opazdunTeam/AstraHACK)**: Messenger project for the AstraLinux hackathon.
+- **[ZKFront](https://github.com/darkfated/ZKFront) [ZKBack](https://github.com/darkfated/ZKBack)**: Joint coursework, website for viewing cryptocurrencies.
 - **[Dessert_Sale_Site](https://github.com/rosiaAI/Dessert_Sale_Site)**: My first website creation project (together with [Sthdire](https://github.com/Sthdire)).
 - **[Bivan_makeup](https://github.com/rosiaAI/Bivan_makeup)**: Bevan website layout.
 - **[orders_googleDoc](https://github.com/rosiaAI/orders_googleDoc?tab=readme-ov-file)**: Test task for working with API and technical skills.
