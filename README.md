@@ -2,7 +2,7 @@
 
 🌱 I love learning and I like programming. I know several languages, for example English 😂. 
 ⚡ In fact, I am a Pythonist, but I prefer Java, and I also know C++.
-
+---
 You can contact me via Telegram
 https://t.me/rosiaAI
 @rosiaAI
