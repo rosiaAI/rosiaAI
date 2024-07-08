@@ -7,6 +7,7 @@
 You can contact me via Telegram: [@rosiaAI](https://t.me/rosiaAI)
 
 
+
 <!--
 **rosiaAI/rosiaAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
