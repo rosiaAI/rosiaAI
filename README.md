@@ -1,4 +1,4 @@
-![image](https://github.com/rosiaAI/rosiaAI/assets/97724072/4055e2e4-5e41-475d-8d92-11aef2fe7009)## 👋 Hi, I'm Rosia like Rosiaslav))
+## 👋 Hi, I'm Rosia like Rosiaslav))
 
 🌱 I love learning and I like programming. I know several languages, including English 😂.
 
