@@ -1,10 +1,11 @@
 ## 👋 Hi, I'm Rosia like Rosiaslav)) 
----
-h3 🌱 I love learning and I like programming. I know several languages, for example English 😂. 
----
-h3 ⚡ In fact, I am a Pythonist, but I prefer Java, and I also know C++.
----
-h3 You can contact me via Telegram [@rosiaAI](https://t.me/rosiaAI)
+
+<br>
+🌱 I love learning and I like programming. I know several languages, for example English 😂. 
+<br>
+⚡ In fact, I am a Pythonist, but I prefer Java, and I also know C++.
+<br>
+You can contact me via Telegram [@rosiaAI](https://t.me/rosiaAI)
 
 <!--
 **rosiaAI/rosiaAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
