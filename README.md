@@ -4,7 +4,7 @@
 
 ⚡ In fact, I am a Pythonist, but I prefer Java, and I also know C++.
 
-You can contact me via Telegram: [@rosiaAI](https://t.me/rosiaAI)
+📫 You can contact me via Telegram: [@rosiaAI](https://t.me/rosiaAI)
 
 
 
