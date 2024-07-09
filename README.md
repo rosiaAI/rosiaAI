@@ -21,6 +21,10 @@ Here are some of my notable projects:
 - **Frameworks and Tools**: Django, DRF, Flask, FastAPI, React, PostgreSQL, MySQL, MongoDB, SQLAlchemy
 - **Other**: Docker, Nginx, Pytest, CMake
 
+## 📊 GitHub Stats
+
+![Rosia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 ## 📫 Contact
 
 You can contact me via Telegram: [@rosiaAI](https://t.me/rosiaAI)
