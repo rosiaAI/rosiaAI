@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Rosia like Rosiaslav))
+## 👋 Hi, I'm Egor
 
 🌱 I like programming. I know several languages, including English 😂.
 
