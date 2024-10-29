@@ -30,3 +30,6 @@ Here are some of my notable projects:
 You can contact me via Telegram: [@rosiaAI](https://t.me/rosiaAI)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rosia&color=blue)
+
+## 📅 Stats
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=darkfated&layout=compact&theme=dark&hide_border=true)
