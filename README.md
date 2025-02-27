@@ -19,7 +19,7 @@ Here are some of my notable projects:
 ## 🛠 Skills
 
 - **Languages**: Python, JavaScript, HTML+CSS, Java, C++
-- **Frameworks and Tools**: Django, DRF, Flask, FastAPI, React, PostgreSQL, MySQL, MongoDB, SQLAlchemy
+- **Frameworks and Tools**: Django, DRF, Flask, FastAPI, React, Vue, PostgreSQL, MySQL, MongoDB, SQLAlchemy
 - **Other**: Docker, Nginx, Pytest, CMake
 
 <!--## 📊 GitHub Stats
