@@ -2,7 +2,7 @@
 
 🌱 I like programming. I know several languages, including English 😂.
 
-⚡ In fact, I am a Pythonist, but I prefer Java, and I also know C++.
+⚡ In fact, I am a Pythonist, but I prefer Java, and I also know Go and C++.
 
 ## 🚀 Projects
 
