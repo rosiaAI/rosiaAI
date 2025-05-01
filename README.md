@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Egor
+## 👋 Hi
 
 🌱 I like programming. I know several languages, including English 😂.
 
