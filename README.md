@@ -18,9 +18,9 @@ I've been working on closed projects lately, but here are my past pet projects:
 
 ## 🛠 Skills
 
-- **Languages**: Python, JavaScript, HTML+CSS, Java, C++
-- **Frameworks and Tools**: Django, DRF, Flask, FastAPI, React, Vue, PostgreSQL, MySQL, MongoDB, SQLAlchemy
-- **Other**: Docker, Nginx, Pytest, CMake
+- **Languages**: Python, Golang, JavaScript, TypeScript, HTML+CSS, Java, C++
+- **Frameworks and Tools**: Django, DRF, Flask, FastAPI, Gin, Chi, gRPC, React, Vue, PostgreSQL, MySQL, MongoDB, SQLAlchemy
+- **Other**: Linux, Docker, Nginx, RabbitMQ, Grafana, Prometheus, Postman Pytest
 
 <!--## 📊 GitHub Stats
 
