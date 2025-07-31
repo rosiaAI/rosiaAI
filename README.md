@@ -6,7 +6,7 @@
 
 ## 🚀 Projects
 
-Here are some of my notable projects:
+I've been working on closed projects lately, but here are my past pet projects:
 
 - **[AstraHACK](https://github.com/opazdunTeam/AstraHACK)**: Messenger project for the AstraLinux hackathon (together with [ShishkaQ](https://github.com/ShishkaQ)).
 - **[taskManager](https://github.com/rosiaAI/taskManager)**: Test task for creating a web application Task list.
