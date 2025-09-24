@@ -13,7 +13,7 @@ LinkedIn
 
 I'm a Backend Developer with over 1.5 years of commercial experience, specializing in building and optimizing high-load web services. My core expertise lies in **Python** (**FastAPI**, **Django**) and **Go**, with a strong expirience on refactoring legacy code, designing scalable SaaS and fullstack systems, APIs.
 
-- 🔭 **Currently working on:** Architecting and developing a high-performance backend for a donation processing system using Go and Gin.
+- 🔭 **Currently working on:** Architecting and developing a high-performance backend for a donation processing system using Go Gin and Vue.
 - 💡 **Interested in:** Distributed systems, high-load architecture, and database optimization.
 - 📚 **Currently learning:** To deepen my expertise in system design and DevOps practices.
 - 💼 **Open to:** New opportunities as a Backend Developer (Python/Go).
