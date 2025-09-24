@@ -1,36 +1,38 @@
-## 👋 Hi, I'm Egor
+<h1 align="center">Hello, I'm Rosia 👋</h1>
+<h3 align="center">A passionate Backend Developer from Russia</h3>
 
-🌱 I like programming. I know several languages, including English 😂.
+<p align="center">
+  <a href="https://t.me/rosiaAI">Telegram</a> •
+  <a href="mailto:egor-udon@mail.ru">Email</a> •
+  <a href="https://github.com/rosiaAI">GitHub</a>
+</p>
 
-⚡ In fact, I am a Pythonist, but I prefer Java, and I also know Go and C++.
+---
 
-## 🚀 Projects
+## 🚀 About Me
 
-I've been working on closed projects lately, but here are my past pet projects:
+I'm a Backend Developer with over 1.5 years of commercial experience, specializing in building and optimizing high-load web services. My core expertise lies in **Python** (**FastAPI**, **Django**) and **Go**, with a strong expirience on refactoring legacy code, designing scalable SaaS and fullstack systems, APIs.
 
-- **[AstraHACK](https://github.com/opazdunTeam/AstraHACK)**: Messenger project for the AstraLinux hackathon (together with [ShishkaQ](https://github.com/ShishkaQ)).
-- **[taskManager](https://github.com/rosiaAI/taskManager)**: Test task for creating a web application Task list.
-- **[ZKFront](https://github.com/darkfated/ZKFront) [ZKBack](https://github.com/darkfated/ZKBack)**: Joint coursework, website for viewing cryptocurrencies ([Presentation link](https://docs.google.com/presentation/d/13OZH23zO1Tk84Aw_fOlSthKxVQv7IDLH/edit?usp=sharing&ouid=107036428537904750253&rtpof=true&sd=true). Together with [darkfated](https://github.com/darkfated) and [ShishkaQ](https://github.com/ShishkaQ)).
-- **[Dessert_Sale_Site](https://github.com/rosiaAI/Dessert_Sale_Site)**: My first website creation project (together with [Sthdire](https://github.com/Sthdire)).
-- **[Bivan_makeup](https://github.com/rosiaAI/Bivan_makeup)**: Bevan website layout.
-- **[ChannelRedactors](https://github.com/Pearson77/ChannelRedactors)**: Freelance project in which I participated as one of the programmers.
-- **[orders_googleDoc](https://github.com/rosiaAI/orders_googleDoc?tab=readme-ov-file)**: Test task for working with API and technical skills (together with [Sthdire](https://github.com/Sthdire)).
+- 🔭 **Currently working on:** Architecting and developing a high-performance backend for a donation processing system using Go and Gin.
+- 💡 **Interested in:** Distributed systems, high-load architecture, and database optimization.
+- 📚 **Currently learning:** To deepen my expertise in system design and DevOps practices.
+- 💼 **Open to:** New opportunities as a Backend Developer (Python/Go).
 
-## 🛠 Skills
+---
 
-- **Languages**: Python, Golang, JavaScript, TypeScript, HTML+CSS, Java, C++
-- **Frameworks and Tools**: Django, DRF, Flask, FastAPI, Gin, Chi, gRPC, React, Vue, PostgreSQL, MySQL, MongoDB, SQLAlchemy
-- **Other**: Linux, Docker, Nginx, RabbitMQ, Grafana, Prometheus, Postman Pytest
+## 🛠️ Technologies & Skills
 
-<!--## 📊 GitHub Stats
+**Programming Languages:**\
+`Python` `Go` `JavaScript/TypeScript` `SQL` `Java` `C++`
 
-![Rosia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
--->
-## 📫 Contact
+**Backend Frameworks & Libraries:**\
+`FastAPI` `Django` `DRF` `Flask` `Gin` `Chi` `gRPC` `Aiogram`
 
-You can contact me via Telegram: [@rosiaAI](https://t.me/rosiaAI)
+**Frontend & UI:**\
+`Vue.js` `Vuetify` `Tailwind CSS` `HTML5` `CSS3/SCSS`
 
-![Profile Views](https://komarev.com/ghpvc/?username=rosia&color=blue)
+**Databases:**\
+`PostgreSQL` `MySQL` `MongoDB` `Oracle` `Redis` `S3`
 
-## 📅 Stats
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=rosiaAI&layout=compact&theme=dark&hide_border=true)
+**Tools & DevOps:**\
+`Docker` `Linux` `Nginx` `Apache Airflow` `Kafka` `RabbitMQ` `K8s` `Git` `Jira` `Confluence` `Figma`
