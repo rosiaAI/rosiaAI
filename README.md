@@ -1,11 +1,11 @@
-<h1 align="center">Hello, I'm Rosia 👋</h1>
-<h3 align="center">A passionate Backend Developer from Russia</h3>
+# Hello, I'm Rosia 👋
+### A passionate Backend Developer from Russia</h3>
 
-<p align="center">
-  <a href="https://t.me/rosiaAI">Telegram</a> •
-  <a href="mailto:egor-udon@mail.ru">Email</a> •
-  <a href="https://github.com/rosiaAI">GitHub</a>
-</p>
+[Telegram](https://t.me/rosiaAI) •
+[Email](mailto:egor-udon@mail.ru) •
+[GitHub](https://github.com/rosiaAI) •
+LinkedIn
+
 
 ---
 
