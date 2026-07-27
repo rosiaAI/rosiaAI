@@ -31,7 +31,5 @@ I'm a Backend Developer with over 1.5 years of commercial experience, specializi
 | **DevOps & Tools** | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)]() [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)]() [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)]() [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)]() [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)]() [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)]() [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)]() [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)]() [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)]() [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)]() [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)]() |
 -->
 ## 📈 GitHub Stats
-<a href="https://github.com/rosiaAI">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosiaAI&layout=compact&theme=dark&hide_border=true" />
-</a>
+[![RosiaAI's GitHub stats](https://github-stats-extended.vercel.app/api?username=rosiaai)](https://github.com/stats-organization/github-stats-extended)
 <img src="https://komarev.com/ghpvc/?username=rosia&color=blue" alt="Profile Views" />
